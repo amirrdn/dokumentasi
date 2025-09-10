@@ -36,7 +36,7 @@
   - **Medium**: Inventory, produk, customer
   - **Low**: Data lainnya
 
-### Smart Retry
+### Retry
 - Sistem mencoba ulang dengan interval yang semakin lama
 - Maksimal 3-5 percobaan sebelum ditandai gagal
 - Data penting diprioritaskan
